@@ -23,3 +23,4 @@ library(FinancialMath)
 vpl = NPV(-invest,fc,c(1,2,3,4,5),wacc)
 vpl
 print(resultado)
+library(tidyverse)
