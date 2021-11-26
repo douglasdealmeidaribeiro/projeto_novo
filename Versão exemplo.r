@@ -1,4 +1,4 @@
-#vers„o 01
+#vers√£o 01
 invest = 1000000
 preco = 10
 cv = 7
@@ -22,3 +22,4 @@ install.packages('FinancialMath')
 library(FinancialMath)
 vpl = NPV(-invest,fc,c(1,2,3,4,5),wacc)
 vpl
+print(resultado)
