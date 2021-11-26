@@ -1,1 +1,2 @@
-#versÃ£o 01
+#versão 01
+invest = 1000000
